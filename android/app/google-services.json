@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927335940649",
+    "project_id": "agesense-dbc8c",
+    "storage_bucket": "agesense-dbc8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927335940649:android:ea7643e5793eeaf412d238",
+        "android_client_info": {
+          "package_name": "com.age_senes.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhCZaFRjKacioWOZuDezQkZRmWmcOAZk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
